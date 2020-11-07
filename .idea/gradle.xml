@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Battleship/task" />
+            <option value="$PROJECT_DIR$/Problems/Declared fields" />
+            <option value="$PROJECT_DIR$/Problems/Division" />
+            <option value="$PROJECT_DIR$/Problems/Field count" />
+            <option value="$PROJECT_DIR$/Problems/Field value" />
+            <option value="$PROJECT_DIR$/Problems/Find the Method" />
+            <option value="$PROJECT_DIR$/Problems/Getting Superclass" />
+            <option value="$PROJECT_DIR$/Problems/List private fields" />
+            <option value="$PROJECT_DIR$/Problems/List public fields" />
+            <option value="$PROJECT_DIR$/Problems/Retrieve class name" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

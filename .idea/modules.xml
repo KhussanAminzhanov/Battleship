@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Battleship.iml" filepath="$PROJECT_DIR$/.idea/modules/Battleship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Battleship/task/Battleship.Battleship-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Battleship/task/Battleship.Battleship-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Battleship/task/Battleship.Battleship-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Battleship/task/Battleship.Battleship-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Battleship/task/Battleship.Battleship-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Battleship/task/Battleship.Battleship-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Declared fields/Battleship.Problems-Declared_fields.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Declared fields/Battleship.Problems-Declared_fields.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Declared fields/Battleship.Problems-Declared_fields.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Declared fields/Battleship.Problems-Declared_fields.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Declared fields/Battleship.Problems-Declared_fields.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Declared fields/Battleship.Problems-Declared_fields.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Division/Battleship.Problems-Division.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Division/Battleship.Problems-Division.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Division/Battleship.Problems-Division.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Division/Battleship.Problems-Division.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Division/Battleship.Problems-Division.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Division/Battleship.Problems-Division.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Field count/Battleship.Problems-Field_count.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Field count/Battleship.Problems-Field_count.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Field count/Battleship.Problems-Field_count.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Field count/Battleship.Problems-Field_count.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Field count/Battleship.Problems-Field_count.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Field count/Battleship.Problems-Field_count.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Field value/Battleship.Problems-Field_value.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Field value/Battleship.Problems-Field_value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Field value/Battleship.Problems-Field_value.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Field value/Battleship.Problems-Field_value.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Field value/Battleship.Problems-Field_value.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Field value/Battleship.Problems-Field_value.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the Method/Battleship.Problems-Find_the_Method.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the Method/Battleship.Problems-Find_the_Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the Method/Battleship.Problems-Find_the_Method.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the Method/Battleship.Problems-Find_the_Method.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the Method/Battleship.Problems-Find_the_Method.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the Method/Battleship.Problems-Find_the_Method.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Getting Superclass/Battleship.Problems-Getting_Superclass.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Getting Superclass/Battleship.Problems-Getting_Superclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Getting Superclass/Battleship.Problems-Getting_Superclass.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Getting Superclass/Battleship.Problems-Getting_Superclass.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Getting Superclass/Battleship.Problems-Getting_Superclass.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Getting Superclass/Battleship.Problems-Getting_Superclass.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/List private fields/Battleship.Problems-List_private_fields.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/List private fields/Battleship.Problems-List_private_fields.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/List private fields/Battleship.Problems-List_private_fields.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/List private fields/Battleship.Problems-List_private_fields.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/List private fields/Battleship.Problems-List_private_fields.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/List private fields/Battleship.Problems-List_private_fields.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/List public fields/Battleship.Problems-List_public_fields.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/List public fields/Battleship.Problems-List_public_fields.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/List public fields/Battleship.Problems-List_public_fields.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/List public fields/Battleship.Problems-List_public_fields.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/List public fields/Battleship.Problems-List_public_fields.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/List public fields/Battleship.Problems-List_public_fields.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Retrieve class name/Battleship.Problems-Retrieve_class_name.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Retrieve class name/Battleship.Problems-Retrieve_class_name.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Retrieve class name/Battleship.Problems-Retrieve_class_name.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Retrieve class name/Battleship.Problems-Retrieve_class_name.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Retrieve class name/Battleship.Problems-Retrieve_class_name.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Retrieve class name/Battleship.Problems-Retrieve_class_name.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Battleship.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Battleship.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Battleship.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Battleship.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Battleship.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Battleship.util.test.iml" />
+    </modules>
+  </component>
+</project>
